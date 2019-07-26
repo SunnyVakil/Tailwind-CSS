@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* .btn:hover {
+  @apply bg-indigo-500;
+} */

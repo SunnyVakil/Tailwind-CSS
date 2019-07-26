@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "\" \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   "build:css" : "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Tailwind CSs"
+  },
+  "author": "Sunny",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.0.5"
+  }
+}
